@@ -1,0 +1,4 @@
+mat-card-title: "Grand prix de Belcastel"
+mat-card-subtitle: 50€
+mat-card-content: "Faites avancer votre animal en le nourrissant et ainsi tenter de remporter la course du chaudron d'or !",
+src (photo): "img/belcastel-xl.png"
